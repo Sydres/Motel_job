@@ -1,4 +1,4 @@
-# Motel_job
+# esx_motel
 
 
 start ilyes_hotel
@@ -6,5 +6,5 @@ start ilyes_hotel
 start maitre_d_hotel
 
 
-localisation 
+Ekran Görüntüsü:
 https://gyazo.com/9cb849e0eaec821f1ffd715f7e024a36
